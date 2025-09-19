@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\Unity\\test4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|z:\\unity\\test4\\assets\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|z:\\unity\\test4\\assets\\pikupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\pikupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\pikupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\pikupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\pickupflashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\pickupflashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +30,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FlashlightController.cs",
-              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\FlashlightController.cs",
-              "RelativeDocumentMoniker": "Assets\\FlashlightController.cs",
-              "ToolTip": "Z:\\Unity\\test4\\Assets\\FlashlightController.cs",
-              "RelativeToolTip": "Assets\\FlashlightController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\FirstPersonController.cs",
+              "ToolTip": "Z:\\Unity\\test4\\Assets\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\FirstPersonController.cs",
+              "ViewState": "AgIAADYCAAAAAAAAAAAAwFkCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T18:27:33.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T13:38:10.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "PickupFlashlight.cs",
+              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\PickupFlashlight.cs",
+              "RelativeDocumentMoniker": "Assets\\PickupFlashlight.cs",
+              "ToolTip": "Z:\\Unity\\test4\\Assets\\PickupFlashlight.cs",
+              "RelativeToolTip": "Assets\\PickupFlashlight.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:56:55.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Shooter.cs",
               "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\Shooter.cs",
@@ -51,25 +66,24 @@
               "RelativeToolTip": "Assets\\Shooter.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:56:04.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T17:56:04.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PikupGun.cs",
               "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\PikupGun.cs",
               "RelativeDocumentMoniker": "Assets\\PikupGun.cs",
               "ToolTip": "Z:\\Unity\\test4\\Assets\\PikupGun.cs",
               "RelativeToolTip": "Assets\\PikupGun.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T17:32:48.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DayNightCycle.cs",
               "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\DayNightCycle.cs",
               "RelativeDocumentMoniker": "Assets\\DayNightCycle.cs",
