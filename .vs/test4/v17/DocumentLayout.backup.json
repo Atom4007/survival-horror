@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Unity\\test4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|z:\\unity\\test4\\assets\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\pikupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\pikupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|Z:\\Unity\\test4\\assets\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}|Assembly-CSharp.csproj|solutionrelative:assets\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlashlightController.cs",
+              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\FlashlightController.cs",
+              "RelativeDocumentMoniker": "Assets\\FlashlightController.cs",
+              "ToolTip": "Z:\\Unity\\test4\\Assets\\FlashlightController.cs",
+              "RelativeToolTip": "Assets\\FlashlightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:27:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooter.cs",
+              "ToolTip": "Z:\\Unity\\test4\\Assets\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Shooter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:56:04.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PikupGun.cs",
+              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\PikupGun.cs",
+              "RelativeDocumentMoniker": "Assets\\PikupGun.cs",
+              "ToolTip": "Z:\\Unity\\test4\\Assets\\PikupGun.cs",
+              "RelativeToolTip": "Assets\\PikupGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:32:48.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "Z:\\Unity\\test4\\Assets\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\DayNightCycle.cs",
+              "ToolTip": "Z:\\Unity\\test4\\Assets\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\DayNightCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:25:30.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
